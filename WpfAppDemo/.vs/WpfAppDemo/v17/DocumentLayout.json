@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|c:\\users\\ramil\\desktop\\finish\\wpfappdemo\\wpfappdemo\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|solutionrelative:wpfappdemo\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|c:\\users\\ramil\\desktop\\finish\\wpfappdemo\\wpfappdemo\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|solutionrelative:wpfappdemo\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|c:\\users\\ramil\\desktop\\finish\\wpfappdemo\\wpfappdemo\\classes\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|solutionrelative:wpfappdemo\\classes\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|c:\\users\\ramil\\desktop\\finish\\wpfappdemo\\wpfappdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|solutionrelative:wpfappdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|c:\\users\\ramil\\desktop\\finish\\wpfappdemo\\wpfappdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|solutionrelative:wpfappdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|c:\\users\\ramil\\desktop\\finish\\wpfappdemo\\wpfappdemo\\classes\\pvz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|solutionrelative:wpfappdemo\\classes\\pvz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|c:\\users\\ramil\\desktop\\finish\\wpfappdemo\\wpfappdemo\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|solutionrelative:wpfappdemo\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|c:\\users\\ramil\\desktop\\finish\\wpfappdemo\\wpfappdemo\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0DCE09F3-25AE-4E0C-8DCE-593C117828BD}|WpfAppDemo\\WpfAppDemo.csproj|solutionrelative:wpfappdemo\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pages\\LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppDemo\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "WpfAppDemo\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:39:30.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "WpfAppDemo\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "WpfAppDemo\\Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T19:37:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pvz.cs",
+              "DocumentMoniker": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Classes\\Pvz.cs",
+              "RelativeDocumentMoniker": "WpfAppDemo\\Classes\\Pvz.cs",
+              "ToolTip": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Classes\\Pvz.cs",
+              "RelativeToolTip": "WpfAppDemo\\Classes\\Pvz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:37:22.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "WpfAppDemo\\Classes\\Product.cs",
+              "ToolTip": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Classes\\Product.cs",
+              "RelativeToolTip": "WpfAppDemo\\Classes\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:37:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Classes\\ConnectionClass.cs",
+              "RelativeDocumentMoniker": "WpfAppDemo\\Classes\\ConnectionClass.cs",
+              "ToolTip": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Classes\\ConnectionClass.cs",
+              "RelativeToolTip": "WpfAppDemo\\Classes\\ConnectionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:36:26.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppDemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T19:34:23.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppDemo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppDemo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:34:22.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "WpfAppDemo\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Ramil\\Desktop\\Finish\\WpfAppDemo\\WpfAppDemo\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WpfAppDemo\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-14T19:35:54.346Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

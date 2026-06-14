@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="30c42b55d4494251991f3d2e9189b253" Name="Diagram1">
+        <EntityTypeShape EntityType="PogRamilPsModel.Category" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Manufactur" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Orders" Width="1.5" PointX="3" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.OrdersItems" Width="1.5" PointX="5.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Products" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Pvz" Width="1.5" PointX="0.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Role" Width="1.5" PointX="1.5" PointY="21.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Status" Width="1.5" PointX="0.75" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Supplier" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Unit" Width="1.5" PointX="0.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PogRamilPsModel.Users" Width="1.5" PointX="0.75" PointY="18.5" IsExpanded="true" />
+        <AssociationConnector Association="PogRamilPsModel.FK_Products_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_Products_Manufactur" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_Orders_Pvz" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_Orders_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_Orders_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_OrdersItems_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_OrdersItems_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_Products_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_Products_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="PogRamilPsModel.FK_Users_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
